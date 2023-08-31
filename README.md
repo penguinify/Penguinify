@@ -1,5 +1,18 @@
-### Hi there 👋
+### penguinify
 
+#### Projects
+- [car axle client](https://github.com/car-axle-client/car-axle-client)
+
+#### Skills
+- Python
+- JS
+- TS
+- HTML5/CSS3
+
+#### Will Learn
+- Rust
+- C or C#
+- Some other language
 <!--
 **Penguinify/Penguinify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
