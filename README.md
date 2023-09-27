@@ -1,7 +1,7 @@
 # penguinify
 ## not a great programmer but I try.
 
-![my GitHub stats](https://github-readme-stats.vercel.app/api?username=penguinify&show_icons=true&theme=radical)
+![my GitHub stats](https://github-readme-stats.vercel.app/api?username=penguinify&show_icons=true&theme=blue_navy)
 
 #### Projects
 - [car axle client](https://github.com/car-axle-client/car-axle-client)
