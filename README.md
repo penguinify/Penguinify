@@ -5,6 +5,7 @@
 
 #### Projects
 - [car axle client](https://github.com/car-axle-client/car-axle-client)
+- [math solver bookmarklet](https://github.com/penguinify/math-bookmarklet)
 
 #### Skills
 - Python
