@@ -12,8 +12,8 @@
 - JS
 - TS
 - HTML5/CSS3
+- Rust
 
 #### Will Learn
-- Rust
 - C or C#
-- Some other language
+- Java (my school forces me ;-;)
