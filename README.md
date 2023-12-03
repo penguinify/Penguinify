@@ -15,5 +15,5 @@
 - Rust
 
 #### Will Learn
-- C or C#
+- C, C#, or Zig
 - Java (my school forces me ;-;)
