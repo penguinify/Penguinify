@@ -9,7 +9,6 @@ dm: hyprland
 
 #### Projects
 - [car axle client](https://github.com/car-axle-client/car-axle-client)
-- [math solver bookmarklet](https://github.com/penguinify/math-bookmarklet)
 
 #### Skills
 - Python
@@ -17,7 +16,8 @@ dm: hyprland
 - TS
 - HTML5/CSS3
 - Rust
+- Go
 
 #### Will Learn
 - C, C#, or Zig
-- Java (my school forces me ;-;)
+- idek like 
