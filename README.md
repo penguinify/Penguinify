@@ -10,8 +10,6 @@ dm: hyprland
 #### Projects
 - [car axle client](https://github.com/car-axle-client/car-axle-client) [ARCHIVED]
 -  - Modernized bookmarklet utility script.
-- [sulfurite](https://github.com/penguinify/sulfurite)
--  - cross platform macro and automations program.
 
 #### Skills
 - Python
