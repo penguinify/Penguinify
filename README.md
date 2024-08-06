@@ -18,6 +18,7 @@ dm: hyprland
 - HTML5/CSS3
 - Rust
 - Go
+- c kinda lk
 
 #### Will Learn
 - C, C#, or Zig
