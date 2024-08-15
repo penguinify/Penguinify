@@ -21,5 +21,5 @@ dm: hyprland
 - c kinda lk
 
 #### Will Learn
-- C, C#, or Zig
+- c++, dont have idea of what to use it for though
 - idek like 
