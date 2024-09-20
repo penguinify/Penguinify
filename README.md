@@ -1,11 +1,8 @@
 # penguinify
 not a great programmer but I try.
 
-![my GitHub stats](https://github-readme-stats.vercel.app/api?username=penguinify&show_icons=true&theme=blue_navy)
-
 ## info
-os: arch
-dm: hyprland
+os: macos
 
 #### Projects
 - [car axle client](https://github.com/car-axle-client/car-axle-client) [ARCHIVED]
@@ -19,6 +16,8 @@ dm: hyprland
 - Rust
 - Go
 - c kinda lk
+- experience with arch and debian linux
+- basic shell
 
 #### Will Learn
 - c++, dont have idea of what to use it for though
