@@ -2,7 +2,6 @@
 not a great programmer but I try.
 
 ## info
-os: macos
 
 #### Projects
 - [car axle client](https://github.com/car-axle-client/car-axle-client) [ARCHIVED]
