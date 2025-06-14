@@ -1,5 +1,5 @@
 # penguinify
-not a great programmer but I try.
+[portfolio](https://penguinify.github.io)
 
 ## info
 
@@ -14,10 +14,5 @@ not a great programmer but I try.
 - HTML5/CSS3
 - Rust
 - Go
-- c kinda lk
-- experience with arch and debian linux
-- basic shell
-
-#### Will Learn
-- c++, dont have idea of what to use it for though
-- idek like 
+- C
+- arch (1yr) debian (0.5yr)
