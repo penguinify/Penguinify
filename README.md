@@ -1,13 +1,6 @@
 # penguinify
 [portfolio](https://penguinify.github.io)
 
-## info
-
-#### Projects
-- [car axle client](https://github.com/car-axle-client/car-axle-client) [ARCHIVED]
--  - Modernized bookmarklet utility script.
-
-#### Skills
 - Python
 - JS
 - TS
